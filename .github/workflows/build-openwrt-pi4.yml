@@ -9,8 +9,8 @@
 name: Build_OpenWrt_Pi4
 
 on:
-#  release:
-#    types: [published]
+  release:
+    types: [published]
   push:
 #    branches:
 #      - master
